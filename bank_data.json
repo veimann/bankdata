@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    { "id": 1, "type": "Checking", "balance": 1200.50 },
+    { "id": 2, "type": "Savings", "balance": 5400.00 }
+  ],
+  "loans": [
+    { "id": 101, "type": "Mortgage", "amount": 200000, "rate": 3.5 }
+  ]
+}
