@@ -1,9 +1,30 @@
 {
+  "user": {
+    "id": "u_001",
+    "name": "Ola Nordmann",
+    "email": "ola.nordmann@example.no",
+    "phone": "+47 912 34 567"
+  },
   "accounts": [
-    { "id": 1, "type": "Checking", "balance": 1200.50 },
-    { "id": 2, "type": "Savings", "balance": 5400.00 }
+    {
+      "id": "acc_1001",
+      "type": "Brukskonto",
+      "balance": 18250.45,
+      "currency": "NOK"
+    },
+    {
+      "id": "acc_1002",
+      "type": "Sparekonto",
+      "balance": 74000.00,
+      "currency": "NOK"
+    }
   ],
   "loans": [
-    { "id": 101, "type": "Mortgage", "amount": 200000, "rate": 3.5 }
+    {
+      "id": "loan_2001",
+      "type": "Boliglån",
+      "outstanding_balance": 1823500.75,
+      "rate": 3.45
+    }
   ]
 }
