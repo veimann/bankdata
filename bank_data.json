@@ -1,8 +1,8 @@
 {
   "user": {
     "id": "u_001",
-    "name": "Ola Nordmann",
-    "email": "ola.nordmann@example.no",
+    "name": "Eivind Tøllefsen",
+    "email": "eivind@boost.ai",
     "phone": "+47 912 34 567"
   },
   "accounts": [
@@ -21,8 +21,8 @@
   ],
   "loans": [
     {
-      "id": "loan_2001",
-      "type": "Boliglån",
+      "id": "snantander_loan_car",
+      "type": "Car loan",
       "outstanding_balance": 1823500.75,
       "rate": 3.45
     }
